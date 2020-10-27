@@ -242,6 +242,11 @@ input, select, textarea {
 	.align-right {
 		text-align: right;
 	}
+#top_links {
+	list-style-type: none;
+
+}
+
 
 /* Container */
 
